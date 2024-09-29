@@ -5,7 +5,7 @@ import { generateDumpRoutes, generateRelayRoutes } from "./router"
 import { TransferContainer } from "./transfer-container"
 import { isByproductTransferUnit, TransferUnit } from "./transfer-unit"
 
-export const MAX_CONTAINER_LINKS = 10
+export const MAX_CONTAINER_LINKS = 20
 export const MAX_INDUSTRY_LINKS = 7
 
 export type PerSecond = number
