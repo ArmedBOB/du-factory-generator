@@ -1,6 +1,6 @@
 # Dual Universe Factory Generator
 
-Use the application here: https://thearchitectio.github.io/du-factory-generator/
+Use the application here: 
 
 This is an application for generating a factory plan for [Dual
 Universe](https://www.dualuniverse.game/). Given a set of items, the
