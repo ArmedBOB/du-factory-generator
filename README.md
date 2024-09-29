@@ -1,6 +1,6 @@
 # Dual Universe Factory Generator
 
-Use the application here: 
+Use the application here: https://armedbob.github.io/du-factory-generator/
 
 This is an application for generating a factory plan for [Dual
 Universe](https://www.dualuniverse.game/). Given a set of items, the
